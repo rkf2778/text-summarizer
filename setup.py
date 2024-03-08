@@ -1,14 +1,17 @@
 import setuptools
 
-with open("README.md", "r",encoding="utf-8") as f:
+with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
+
 
 __version__ = "0.0.0"
 
-REPO_NAME = "text-summarizer"
+REPO_NAME = "Text-Summarizer"
 AUTHOR_USER_NAME = "rkf2778"
-SRC_REPO = "textSummarizer"
+SRC_REPO = "text-summarizer"
 AUTHOR_EMAIL = "rohit.kf.dev@gmail.com"
+
+
 
 setuptools.setup(
     name=SRC_REPO,
