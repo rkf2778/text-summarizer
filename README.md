@@ -6,7 +6,7 @@
 2. Update params.yaml
 3. Update entity
 4. Update the configuration manager in src config
-5. update the conponents
+5. update the components
 6. update the pipeline
 7. update the main.py
 8. update the app.py
@@ -18,7 +18,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Text-Summarization
+https://github.com/rkf2778/text-summarizer
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -49,9 +49,9 @@ open up you local host and port
 
 
 ```bash
-Author: Krish Naik
+Author: Rohit K F
 Data Scientist
-Email: krishnaik06@gmail.com
+Email: rohit.kf.dev@gmail.com
 
 ```
 
@@ -80,7 +80,7 @@ Email: krishnaik06@gmail.com
 
 	4. Pull Your image from ECR in EC2
 
-	5. Lauch your docker image in EC2
+	5. Launch your docker image in EC2
 
 	#Policy:
 
@@ -98,7 +98,7 @@ Email: krishnaik06@gmail.com
 ## 5. Open EC2 and Install docker in EC2 Machine:
 	
 	
-	#optinal
+	#optional
 
 	sudo apt-get update -y
 
